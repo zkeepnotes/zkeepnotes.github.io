@@ -1,0 +1,3 @@
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://hub.fastgit.org/dillonzq/LoveIt.git
